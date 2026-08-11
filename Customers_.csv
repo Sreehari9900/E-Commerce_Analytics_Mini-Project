@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Customer_Segment,Gender,Age,State,City,Signup_Date,Customer_Rating
+C0001,Vikram Sharma,Consumer,Male,32,Maharashtra,Mumbai,6/1/2023,3.4
+C0002,Abhishek Nair,Home Office,Male,36,Karnataka,Bengaluru,2/5/2024,0
+C0003,Suresh Singh,Small Business,Male,44,Delhi,Delhi,19/01/2023,2.6
+C0004,Kiran Kulkarni,Corporate,Male,39,Karnataka,Bengaluru,21/03/2023,4.1
+C0005,Anjali Kumar,Consumer,Female,28,Gujarat,Ahmedabad,1/3/2023,4.1
+C0006,Pallavi Mishra,Consumer,Female,51,Maharashtra,Pune,10/6/2022,3.4
+C0007,Aditya Sharma,Consumer,Male,41,Karnataka,Bengaluru,16/04/2025,2.7
+C0008,Rahul Iyer,Small Business,Male,37,Andhra Pradesh,Vijayawada,21/09/2023,3.5
+C0009,Suresh Menon,Corporate,Male,43,Karnataka,Bengaluru,13/06/2024,3.3
+C0010,Tanvi Sharma,Small Business,Female,57,Maharashtra,Pune,5/5/2023,4.2
+C0011,Bhavya Iyer,Consumer,Female,36,Kerala,Kochi,13/10/2024,4
+C0012,Anjali Mishra,Home Office,Female,26,Andhra Pradesh,Vijayawada,23/11/2022,3.4
+C0013,Suresh Kapoor,Small Business,Male,28,Karnataka,Bengaluru,21/08/2023,3
+C0014,Pallavi Verma,Consumer,Female,45,Tamil Nadu,Chennai,11/10/2024,5
+C0015,Aarav Gowda,Consumer,Male,38,Tamil Nadu,Chennai,16/10/2022,3.6
+C0016,Nikhil Pillai,Consumer,Male,45,Karnataka,Bengaluru,16/08/2023,4.2
+C0017,Shreya Joshi,Consumer,Female,32,Kerala,Kochi,27/07/2023,2.9
+C0018,Abhishek Singh,Corporate,Male,35,Delhi,Delhi,9/10/2025,3.7
+C0019,Harish Gowda,Consumer,Male,46,Maharashtra,Mumbai,28/01/2022,2.6
+C0020,Sneha Patel,Consumer,Female,61,Tamil Nadu,Chennai,11/8/2024,3.8
+C0021,Rahul Das,Corporate,Male,65,Delhi,Delhi,12/2/2022,4.9
+C0022,Kiran Gupta,Consumer,Male,46,Karnataka,Bengaluru,27/02/2023,3.5
+C0023,Pooja Chowdhury,Consumer,Female,52,Gujarat,Ahmedabad,26/06/2022,2.6
+C0024,Ravi Choudhary,Consumer,Male,30,Delhi,Delhi,13/06/2023,2.6
+C0025,Aditya Shetty,Consumer,Male,36,Andhra Pradesh,Vijayawada,23/08/2024,3.5
+C0026,Nandini Bhat,Small Business,Female,27,Telangana,Hyderabad,17/07/2022,2.9
+C0027,Vikram Malhotra,Consumer,Male,37,Tamil Nadu,Chennai,2/9/2023,2.6
+C0028,Divya Kumar,Corporate,Female,43,Karnataka,Bengaluru,21/04/2024,4.4
+C0029,Bhavya Mehta,Corporate,Female,46,Gujarat,Ahmedabad,2/5/2024,3.6
+C0030,Riya Yadav,Consumer,Female,41,Maharashtra,Mumbai,22/01/2022,3.2
+C0031,Kavya Naidu,Corporate,Female,42,Gujarat,Ahmedabad,9/2/2025,4.8
+C0032,Varun Pillai,Consumer,Male,27,Kerala,Kochi,16/12/2024,2.8
+C0033,Rohan Reddy,Consumer,Male,34,Andhra Pradesh,Vijayawada,25/12/2024,4.9
+C0034,Suresh Gowda,Home Office,Male,35,Karnataka,Bengaluru,21/04/2024,3.3
+C0035,Ananya Kumar,Home Office,Female,27,Maharashtra,Pune,8/4/2022,4.7
+C0036,Suresh Jain,Small Business,Male,29,Kerala,Kochi,13/03/2025,4
+C0037,Kiran Das,Consumer,Male,28,Kerala,Kochi,11/3/2023,4.6
+C0038,Abhishek Kapoor,Consumer,Male,43,Karnataka,Bengaluru,29/09/2023,5
+C0039,Kavya Rao,Corporate,Female,49,Andhra Pradesh,Vijayawada,14/01/2025,3.2
+C0040,Kavya Gupta,Consumer,Female,38,Delhi,Delhi,11/8/2023,4.9
+C0041,Harish Kulkarni,Consumer,Male,51,Delhi,Delhi,10/12/2022,3.5
+C0042,Abhishek Pillai,Corporate,Male,50,Kerala,Kochi,10/8/2025,3.5
+C0043,Rohan Chowdhury,Consumer,Male,59,Delhi,Delhi,25/07/2023,3.4
+C0044,Nikhil Bhat,Home Office,Male,55,Telangana,Hyderabad,3/9/2023,3.9
+C0045,Pranav Rao,Consumer,Male,38,Kerala,Kochi,31/08/2022,2.9
+C0046,Nandini Das,Corporate,Female,62,Kerala,Kochi,15/07/2023,3.9
+C0047,Abhishek Malhotra,Consumer,Male,59,Maharashtra,Mumbai,17/08/2024,3.9
+C0048,Bhavya Nair,Corporate,Female,37,Delhi,Delhi,1/2/2022,4.4
+C0049,Priya Saxena,Corporate,Female,34,Andhra Pradesh,Vijayawada,26/01/2023,4.6
+C0050,Arjun Nair,Consumer,Male,51,Kerala,Kochi,4/10/2022,3.6
+C0051,Aditya Choudhary,Home Office,Male,44,Gujarat,Ahmedabad,16/06/2023,3.3
+C0052,Priya Das,Small Business,Female,55,Andhra Pradesh,Vijayawada,23/03/2025,3.1
+C0053,Abhishek Kumar,Home Office,Male,64,Telangana,Hyderabad,18/01/2023,3
+C0054,Harish Malhotra,Home Office,Male,65,Maharashtra,Pune,27/12/2024,2.6
+C0055,Sahana Yadav,Corporate,Female,54,Karnataka,Bengaluru,2/6/2024,3.4
+C0056,Priya Iyer,Home Office,Female,23,Andhra Pradesh,Vijayawada,2/8/2022,3.2
+C0057,Swathi Das,Consumer,Female,57,Kerala,Kochi,11/1/2023,4.9
+C0058,Nandini Singh,Consumer,Female,63,Telangana,Hyderabad,14/01/2024,3.9
+C0059,Ravi Singh,Consumer,Male,60,Tamil Nadu,Chennai,1/8/2022,3.4
+C0060,Pranav Shetty,Consumer,Male,46,Telangana,Hyderabad,20/03/2022,4
+C0061,Bhavya Bhat,Consumer,Female,43,Telangana,Hyderabad,20/09/2023,2.8
+C0062,Ravi Shetty,Consumer,Male,64,Maharashtra,Mumbai,27/08/2023,3.6
+C0063,Pallavi Mishra,Small Business,Female,59,Karnataka,Bengaluru,21/02/2024,4.1
+C0064,Pallavi Das,Consumer,Female,35,Tamil Nadu,Chennai,5/11/2025,3.7
+C0065,Kavya Nair,Consumer,Female,24,Delhi,Delhi,27/09/2024,3.5
+C0066,Sanjay Menon,Corporate,Male,49,Delhi,Delhi,11/11/2023,5
+C0067,Swathi Kumar,Consumer,Female,42,Andhra Pradesh,Vijayawada,27/02/2022,4.7
+C0068,Arjun Jain,Small Business,Male,45,Telangana,Hyderabad,15/11/2024,4.1
+C0069,Vikram Singh,Consumer,Male,33,Gujarat,Ahmedabad,30/05/2024,3.9
+C0070,Nikhil Choudhary,Home Office,Male,38,Maharashtra,Mumbai,23/03/2023,4.1
+C0071,Shreya Chowdhury,Small Business,Female,53,Gujarat,Ahmedabad,7/3/2022,3
+C0072,Rohan Das,Consumer,Male,36,Maharashtra,Pune,1/7/2025,3.5
+C0073,Divya Chowdhury,Consumer,Female,65,Delhi,Delhi,3/12/2024,2.6
+C0074,Nandini Menon,Small Business,Female,62,Andhra Pradesh,Vijayawada,25/01/2025,3.7
+C0075,Ravi Bhat,Small Business,Male,64,Andhra Pradesh,Vijayawada,8/10/2024,3.9
+C0076,Aarav Kulkarni,Small Business,Male,22,Andhra Pradesh,Vijayawada,15/08/2022,3.1
+C0077,Vikram Kulkarni,Small Business,Male,55,Tamil Nadu,Chennai,13/02/2024,4.9
+C0078,Anjali Gowda,Consumer,Female,62,Karnataka,Bengaluru,10/11/2023,4.8
+C0079,Abhishek Gowda,Consumer,Male,54,Tamil Nadu,Chennai,30/12/2025,4.3
+C0080,Sneha Patel,Consumer,Female,50,Kerala,Kochi,24/08/2023,3.8
+C0081,Ananya Mishra,Small Business,Female,33,Kerala,Kochi,14/01/2023,4.7
+C0082,Nikhil Kapoor,Corporate,Male,33,Gujarat,Ahmedabad,16/04/2025,2.8
+C0083,Aarav Shetty,Consumer,Male,38,Karnataka,Bengaluru,21/12/2025,4.5
+C0084,Ravi Menon,Consumer,Male,52,Delhi,Delhi,10/12/2023,2.8
+C0085,Akash Menon,Consumer,Male,52,Karnataka,Bengaluru,3/11/2022,4.5
+C0086,Kiran Jain,Consumer,Male,55,Maharashtra,Pune,18/02/2024,3.2
+C0087,Aisha Saxena,Small Business,Female,59,Kerala,Kochi,19/05/2023,4.7
+C0088,Keerthi Chowdhury,Corporate,Female,49,Telangana,Hyderabad,25/09/2022,4.9
+C0089,Varun Singh,Home Office,Male,49,Telangana,Hyderabad,8/1/2022,2.9
+C0090,Kavya Gowda,Consumer,Female,64,Delhi,Delhi,23/05/2023,3.7
+C0091,Nikhil Bhat,Consumer,Male,36,Maharashtra,Pune,21/04/2023,5
+C0092,Deepika Malhotra,Small Business,Female,64,Gujarat,Ahmedabad,13/08/2025,3.7
+C0093,Aarav Chowdhury,Small Business,Male,30,Tamil Nadu,Chennai,13/06/2022,4.7
+C0094,Priya Agarwal,Corporate,Female,50,Maharashtra,Pune,30/04/2023,4
+C0095,Vivaan Patel,Small Business,Male,45,Telangana,Hyderabad,31/12/2024,3.4
+C0096,Kavya Yadav,Corporate,Female,59,Telangana,Hyderabad,21/07/2023,3.2
+C0097,Aisha Nair,Corporate,Female,40,Gujarat,Ahmedabad,23/06/2024,3
+C0098,Arjun Nair,Consumer,Male,25,Kerala,Kochi,13/07/2023,4.4
+C0099,Sahana Kumar,Consumer,Female,21,Maharashtra,Pune,26/08/2022,3.5
+C0100,Rahul Shetty,Consumer,Male,50,Maharashtra,Pune,1/2/2025,3.8
+C0101,Swathi Saxena,Consumer,Female,23,Telangana,Hyderabad,18/05/2025,3.7
+C0102,Rohan Gowda,Corporate,Male,65,Tamil Nadu,Chennai,8/7/2023,3.9
+C0103,Anjali Gowda,Consumer,Female,34,Delhi,Delhi,7/4/2024,4.7
+C0104,Sanjay Singh,Corporate,Male,50,Andhra Pradesh,Vijayawada,13/04/2023,5
+C0105,Lakshmi Bhat,Home Office,Female,24,Delhi,Delhi,15/07/2025,3.5
+C0106,Nikhil Verma,Consumer,Male,38,Maharashtra,Pune,21/01/2023,4.6
+C0107,Deepika Jain,Consumer,Female,57,Delhi,Delhi,14/02/2024,4.4
+C0108,Tanvi Mishra,Small Business,Female,45,Telangana,Hyderabad,27/04/2024,3.9
+C0109,Harish Malhotra,Consumer,Male,21,Telangana,Hyderabad,22/01/2023,4.9
+C0110,Anjali Gowda,Consumer,Female,35,Gujarat,Ahmedabad,26/05/2024,3
+C0111,Varun Pillai,Consumer,Male,29,Maharashtra,Mumbai,16/09/2022,2.8
+C0112,Aisha Das,Consumer,Female,35,Gujarat,Ahmedabad,10/10/2022,4.6
+C0113,Kavya Kapoor,Home Office,Female,44,Maharashtra,Pune,9/2/2022,3.6
+C0114,Deepika Kapoor,Small Business,Female,24,Andhra Pradesh,Vijayawada,1/5/2023,4.6
+C0115,Vikram Nair,Corporate,Male,32,Andhra Pradesh,Vijayawada,17/07/2024,4.7
+C0116,Suresh Kumar,Small Business,Male,57,Kerala,Kochi,8/8/2022,2.7
+C0117,Sneha Sharma,Small Business,Female,57,Maharashtra,Mumbai,26/02/2025,4.7
+C0118,Pallavi Bhat,Consumer,Female,63,Tamil Nadu,Chennai,11/10/2024,3.6
+C0119,Suresh Naidu,Home Office,Male,26,Delhi,Delhi,20/10/2024,3.8
+C0120,Suresh Sharma,Corporate,Male,59,Maharashtra,Pune,5/9/2023,4.1
+C0121,Rohan Pillai,Small Business,Male,44,Karnataka,Bengaluru,16/07/2024,4.8
+C0122,Arjun Nair,Home Office,Male,31,Kerala,Kochi,19/11/2023,2.5
+C0123,Rohan Yadav,Consumer,Male,33,Karnataka,Bengaluru,5/9/2023,3.7
+C0124,Aditya Jain,Consumer,Male,54,Telangana,Hyderabad,17/09/2022,4.2
+C0125,Sneha Kumar,Consumer,Female,45,Andhra Pradesh,Vijayawada,16/09/2024,4.3
+C0126,Keerthi Nair,Consumer,Female,27,Delhi,Delhi,23/08/2024,4.2
+C0127,Abhishek Kulkarni,Small Business,Male,24,Maharashtra,Mumbai,1/1/2023,2.8
+C0128,Swathi Iyer,Small Business,Female,28,Karnataka,Bengaluru,28/06/2023,3.2
+C0129,Anjali Singh,Consumer,Female,40,Delhi,Delhi,11/10/2023,3.4
+C0130,Sahana Naidu,Corporate,Female,49,Telangana,Hyderabad,24/03/2024,0
+C0131,Lakshmi Nair,Consumer,Female,65,Andhra Pradesh,Vijayawada,5/11/2024,3.2
+C0132,Lakshmi Choudhary,Consumer,Female,30,Tamil Nadu,Chennai,26/02/2025,3
+C0133,Neha Iyer,Consumer,Female,63,Kerala,Kochi,29/07/2023,4.9
+C0134,Kiran Patel,Consumer,Male,54,Delhi,Delhi,6/2/2025,2.5
+C0135,Shreya Gupta,Home Office,Female,46,Delhi,Delhi,9/10/2024,5
+C0136,Shreya Mishra,Consumer,Female,61,Tamil Nadu,Chennai,1/11/2023,4.2
+C0137,Nandini Jain,Corporate,Female,23,Delhi,Delhi,26/09/2022,4.6
+C0138,Arjun Kulkarni,Small Business,Male,26,Telangana,Hyderabad,31/03/2025,3.2
+C0139,Kiran Reddy,Consumer,Male,25,Telangana,Hyderabad,7/7/2025,2.5
+C0140,Meera Shetty,Home Office,Female,25,Tamil Nadu,Chennai,12/7/2024,4.3
+C0141,Sneha Choudhary,Home Office,Female,43,Kerala,Kochi,30/01/2025,4.6
+C0142,Kiran Nair,Consumer,Male,29,Maharashtra,Mumbai,4/9/2022,4.4
+C0143,Varun Iyer,Corporate,Male,55,Karnataka,Bengaluru,11/5/2022,2.9
+C0144,Anjali Kapoor,Consumer,Female,40,Maharashtra,Pune,19/12/2022,4.4
+C0145,Sanjay Mishra,Consumer,Male,62,Delhi,Delhi,15/07/2022,4.4
+C0146,Akash Verma,Consumer,Male,55,Karnataka,Bengaluru,18/07/2024,4.1
+C0147,Nandini Nair,Corporate,Female,38,Gujarat,Ahmedabad,6/11/2025,4.4
+C0148,Rohan Kapoor,Corporate,Male,37,Tamil Nadu,Chennai,18/10/2024,4.6
+C0149,Bhavya Patel,Consumer,Female,44,Tamil Nadu,Chennai,7/10/2023,4
+C0150,Arjun Desai,Consumer,Male,23,Kerala,Kochi,15/08/2022,2.7
+C0151,Anjali Saxena,Home Office,Female,52,Karnataka,Bengaluru,2/12/2023,3.7
+C0152,Aarav Kumar,Consumer,Male,55,Telangana,Hyderabad,22/09/2022,2.7
+C0153,Pranav Rao,Consumer,Male,58,Karnataka,Bengaluru,27/10/2025,3.5
+C0154,Neha Agarwal,Corporate,Female,33,Delhi,Delhi,28/12/2025,3.5
+C0155,Lakshmi Iyer,Home Office,Female,45,Telangana,Hyderabad,8/10/2023,2.7
+C0156,Meera Yadav,Consumer,Female,29,Andhra Pradesh,Vijayawada,30/07/2022,3.4
+C0157,Arjun Rao,Corporate,Male,24,Andhra Pradesh,Vijayawada,1/11/2025,2.8
+C0158,Divya Sharma,Small Business,Female,34,Gujarat,Ahmedabad,19/11/2025,4.5
+C0159,Divya Verma,Consumer,Female,57,Andhra Pradesh,Vijayawada,31/07/2024,4.9
+C0160,Nandini Mehta,Small Business,Female,54,Tamil Nadu,Chennai,19/10/2025,2.7
+C0161,Shreya Pillai,Consumer,Female,31,Karnataka,Bengaluru,2/4/2023,4.9
+C0162,Bhavya Kulkarni,Corporate,Female,61,Andhra Pradesh,Vijayawada,26/12/2023,3.8
+C0163,Swathi Singh,Corporate,Female,23,Maharashtra,Pune,3/6/2025,3.2
+C0164,Varun Mehta,Corporate,Male,48,Kerala,Kochi,8/9/2024,2.7
+C0165,Harish Reddy,Consumer,Male,49,Maharashtra,Pune,28/02/2025,3.8
+C0166,Pallavi Shetty,Small Business,Female,29,Andhra Pradesh,Vijayawada,11/8/2023,4.5
+C0167,Anjali Reddy,Consumer,Female,23,Gujarat,Ahmedabad,21/04/2023,4.3
+C0168,Priya Reddy,Consumer,Female,45,Kerala,Kochi,12/9/2024,2.6
+C0169,Arjun Naidu,Consumer,Male,54,Delhi,Delhi,24/07/2025,2.7
+C0170,Lakshmi Menon,Corporate,Female,32,Maharashtra,Mumbai,5/6/2022,3.5
+C0171,Deepika Rao,Corporate,Female,62,Gujarat,Ahmedabad,26/05/2025,3.2
+C0172,Arjun Menon,Consumer,Male,29,Karnataka,Bengaluru,9/7/2022,3.1
+C0173,Rahul Jain,Corporate,Male,35,Karnataka,Bengaluru,11/12/2025,3.2
+C0174,Akash Kumar,Consumer,Male,60,Maharashtra,Pune,7/9/2024,4.5
+C0175,Tanvi Kumar,Corporate,Female,45,Andhra Pradesh,Vijayawada,30/06/2023,4.8
+C0176,Pranav Das,Consumer,Male,25,Gujarat,Ahmedabad,10/2/2022,3.5
+C0177,Vikram Yadav,Corporate,Male,31,Karnataka,Bengaluru,3/11/2022,4.8
+C0178,Sahana Nair,Consumer,Female,54,Delhi,Delhi,31/07/2024,3.3
+C0179,Pallavi Chowdhury,Home Office,Female,44,Telangana,Hyderabad,4/12/2022,3.7
+C0180,Aditya Chowdhury,Consumer,Male,35,Andhra Pradesh,Vijayawada,30/08/2025,3.1
+C0181,Rahul Mishra,Consumer,Male,58,Gujarat,Ahmedabad,3/1/2025,4.1
+C0182,Pallavi Naidu,Consumer,Female,28,Delhi,Delhi,10/8/2024,4.9
+C0183,Deepika Joshi,Home Office,Female,25,Gujarat,Ahmedabad,6/10/2022,4
+C0184,Ravi Iyer,Small Business,Male,46,Kerala,Kochi,14/04/2025,3.4
+C0185,Priya Nair,Consumer,Female,38,Delhi,Delhi,14/06/2024,4.1
+C0186,Ravi Das,Corporate,Male,26,Andhra Pradesh,Vijayawada,30/09/2022,2.8
+C0187,Sanjay Kulkarni,Small Business,Male,57,Kerala,Kochi,16/04/2024,4.7
+C0188,Aisha Kapoor,Corporate,Female,33,Andhra Pradesh,Vijayawada,12/9/2023,3.8
+C0189,Priya Malhotra,Corporate,Female,48,Karnataka,Bengaluru,11/5/2024,3.6
+C0190,Rohan Sharma,Consumer,Male,25,Telangana,Hyderabad,19/07/2024,4
+C0191,Nandini Chowdhury,Consumer,Female,33,Andhra Pradesh,Vijayawada,16/10/2022,4.1
+C0192,Sahana Patel,Home Office,Female,37,Andhra Pradesh,Vijayawada,25/12/2023,2.7
+C0193,Rohan Bhat,Home Office,Male,60,Karnataka,Bengaluru,11/6/2024,4.2
+C0194,Harish Menon,Corporate,Male,65,Tamil Nadu,Chennai,29/09/2022,3.1
+C0195,Ravi Singh,Consumer,Male,52,Karnataka,Bengaluru,25/12/2024,4.3
+C0196,Pooja Yadav,Consumer,Female,49,Kerala,Kochi,28/04/2023,4.6
+C0197,Rohan Yadav,Small Business,Male,23,Karnataka,Bengaluru,24/07/2024,4.5
+C0198,Pranav Gupta,Home Office,Male,60,Karnataka,Bengaluru,5/9/2022,3.9
+C0199,Ananya Rao,Home Office,Female,54,Telangana,Hyderabad,5/6/2022,3.8
+C0200,Isha Saxena,Small Business,Female,60,Karnataka,Bengaluru,6/12/2024,2.9
+C0201,Anjali Pillai,Corporate,Female,47,Gujarat,Ahmedabad,30/03/2023,4.4
+C0202,Aisha Chowdhury,Consumer,Female,33,Andhra Pradesh,Vijayawada,20/07/2022,3.2
+C0203,Deepika Sharma,Consumer,Female,65,Gujarat,Ahmedabad,4/5/2022,3.7
+C0204,Bhavya Mehta,Home Office,Female,53,Telangana,Hyderabad,1/1/2022,3.2
+C0205,Kiran Yadav,Corporate,Male,26,Maharashtra,Pune,25/08/2024,2.8
+C0206,Sanjay Verma,Consumer,Male,44,Tamil Nadu,Chennai,4/5/2024,4.1
+C0207,Vikram Yadav,Consumer,Male,39,Gujarat,Ahmedabad,2/10/2023,2.6
+C0208,Kiran Shetty,Corporate,Male,36,Telangana,Hyderabad,10/7/2022,4.4
+C0209,Bhavya Singh,Consumer,Female,60,Kerala,Kochi,31/05/2023,3.3
+C0210,Abhishek Mehta,Consumer,Male,48,Maharashtra,Mumbai,18/03/2023,2.5
+C0211,Tanvi Iyer,Corporate,Female,53,Telangana,Hyderabad,23/05/2022,3.8
+C0212,Sneha Iyer,Corporate,Female,61,Telangana,Hyderabad,29/04/2025,2.6
+C0213,Ravi Menon,Corporate,Male,33,Tamil Nadu,Chennai,17/06/2023,3.2
+C0214,Swathi Verma,Consumer,Female,63,Andhra Pradesh,Vijayawada,15/08/2022,4.3
+C0215,Arjun Kumar,Small Business,Male,65,Gujarat,Ahmedabad,29/08/2025,2.7
+C0216,Shreya Saxena,Consumer,Female,45,Kerala,Kochi,6/8/2024,4.6
+C0217,Abhishek Reddy,Consumer,Male,62,Delhi,Delhi,18/08/2025,2.5
+C0218,Aarav Joshi,Small Business,Male,56,Gujarat,Ahmedabad,5/4/2023,3.1
+C0219,Sanjay Desai,Corporate,Male,47,Delhi,Delhi,25/11/2025,4.4
+C0220,Ravi Rao,Small Business,Male,58,Telangana,Hyderabad,5/7/2023,3.3
+C0221,Isha Bhat,Corporate,Female,27,Karnataka,Bengaluru,28/01/2023,2.8
+C0222,Shreya Bhat,Corporate,Female,25,Kerala,Kochi,24/04/2024,3.4
+C0223,Aarav Patel,Consumer,Male,63,Maharashtra,Mumbai,15/05/2025,3.2
+C0224,Rohan Yadav,Consumer,Male,65,Karnataka,Bengaluru,29/07/2022,4.6
+C0225,Manish Bhat,Consumer,Male,51,Karnataka,Bengaluru,12/2/2025,3.3
+C0226,Aditya Saxena,Consumer,Male,43,Gujarat,Ahmedabad,8/10/2023,0
+C0227,Kavya Naidu,Home Office,Female,62,Kerala,Kochi,28/06/2025,4.7
+C0228,Bhavya Singh,Consumer,Female,30,Andhra Pradesh,Vijayawada,7/8/2022,3.6
+C0229,Shreya Singh,Home Office,Female,52,Telangana,Hyderabad,11/2/2023,4.8
+C0230,Aditya Mehta,Corporate,Male,63,Telangana,Hyderabad,9/10/2025,3.4
+C0231,Kavya Yadav,Small Business,Female,50,Telangana,Hyderabad,6/6/2024,4.9
+C0232,Aditya Yadav,Corporate,Male,59,Telangana,Hyderabad,12/7/2023,2.7
+C0233,Pooja Iyer,Corporate,Female,51,Gujarat,Ahmedabad,4/7/2023,4.2
+C0234,Pranav Kulkarni,Corporate,Male,38,Delhi,Delhi,22/05/2022,3.7
+C0235,Kiran Gupta,Consumer,Male,56,Telangana,Hyderabad,4/9/2023,3.5
+C0236,Bhavya Yadav,Small Business,Female,22,Delhi,Delhi,16/05/2023,4.1
+C0237,Neha Chowdhury,Consumer,Female,34,Delhi,Delhi,19/04/2024,4.3
+C0238,Manish Malhotra,Consumer,Male,33,Andhra Pradesh,Vijayawada,3/12/2023,2.5
+C0239,Pranav Jain,Corporate,Male,49,Telangana,Hyderabad,19/08/2023,2.9
+C0240,Nikhil Choudhary,Consumer,Male,32,Tamil Nadu,Chennai,8/10/2022,4.3
+C0241,Akash Yadav,Home Office,Male,59,Maharashtra,Mumbai,28/02/2023,4.2
+C0242,Neha Sharma,Home Office,Female,22,Karnataka,Bengaluru,5/5/2024,4.9
+C0243,Akash Shetty,Home Office,Male,52,Delhi,Delhi,27/09/2022,4.4
+C0244,Sneha Choudhary,Consumer,Female,33,Kerala,Kochi,3/6/2022,4.9
+C0245,Neha Choudhary,Consumer,Female,47,Kerala,Kochi,6/9/2023,4.3
+C0246,Pranav Verma,Home Office,Male,61,Maharashtra,Mumbai,24/10/2023,3.2
+C0247,Nikhil Choudhary,Consumer,Male,37,Kerala,Kochi,24/03/2022,2.8
+C0248,Kiran Das,Home Office,Male,60,Tamil Nadu,Chennai,4/8/2024,4.5
+C0249,Aditya Jain,Home Office,Male,51,Kerala,Kochi,17/06/2024,4.1
+C0250,Lakshmi Nair,Small Business,Female,54,Karnataka,Bengaluru,20/12/2025,2.6
+C0251,Varun Saxena,Consumer,Male,44,Karnataka,Bengaluru,22/07/2025,3.4
+C0252,Nandini Gupta,Consumer,Female,65,Delhi,Delhi,11/10/2022,4.9
+C0253,Aisha Saxena,Small Business,Female,55,Telangana,Hyderabad,6/9/2024,3.8
+C0254,Suresh Nair,Consumer,Male,26,Andhra Pradesh,Vijayawada,22/06/2022,3.6
+C0255,Vivaan Kulkarni,Consumer,Male,39,Tamil Nadu,Chennai,12/9/2025,3.6
+C0256,Varun Das,Corporate,Male,50,Delhi,Delhi,22/12/2024,3
+C0257,Sneha Verma,Home Office,Female,27,Tamil Nadu,Chennai,1/1/2025,3.4
+C0258,Rohan Gowda,Corporate,Male,30,Telangana,Hyderabad,2/2/2024,3.4
+C0259,Abhishek Gupta,Corporate,Male,61,Gujarat,Ahmedabad,30/10/2025,2.6
+C0260,Keerthi Das,Consumer,Female,52,Kerala,Kochi,25/09/2023,4.4
+C0261,Anjali Joshi,Corporate,Female,54,Kerala,Kochi,26/02/2024,3.5
+C0262,Vivaan Patel,Home Office,Male,48,Andhra Pradesh,Vijayawada,31/07/2024,4.6
+C0263,Ravi Rao,Consumer,Male,35,Telangana,Hyderabad,8/10/2024,4.6
+C0264,Pallavi Verma,Corporate,Female,50,Delhi,Delhi,2/2/2023,3
+C0265,Aditya Patel,Small Business,Male,57,Andhra Pradesh,Vijayawada,17/02/2025,4.1
+C0266,Tanvi Mishra,Small Business,Female,49,Telangana,Hyderabad,22/07/2024,3.7
+C0267,Pooja Shetty,Corporate,Female,42,Maharashtra,Pune,31/12/2025,4.7
+C0268,Priya Mishra,Small Business,Female,24,Karnataka,Bengaluru,7/11/2023,3
+C0269,Tanvi Menon,Consumer,Female,40,Andhra Pradesh,Vijayawada,24/07/2024,4.2
+C0270,Vikram Das,Consumer,Male,52,Andhra Pradesh,Vijayawada,10/4/2023,4
+C0271,Sahana Iyer,Small Business,Female,56,Delhi,Delhi,13/10/2022,3.2
+C0272,Ravi Reddy,Small Business,Male,24,Tamil Nadu,Chennai,22/09/2022,2.8
+C0273,Shreya Sharma,Small Business,Female,47,Maharashtra,Pune,16/11/2022,4.1
+C0274,Deepika Malhotra,Home Office,Female,37,Delhi,Delhi,4/11/2023,4.3
+C0275,Anjali Kulkarni,Corporate,Female,32,Telangana,Hyderabad,31/10/2025,3.3
+C0276,Varun Gupta,Corporate,Male,42,Telangana,Hyderabad,30/03/2024,4.1
+C0277,Shreya Kumar,Small Business,Female,37,Telangana,Hyderabad,30/03/2022,3.5
+C0278,Sneha Chowdhury,Corporate,Female,30,Gujarat,Ahmedabad,11/5/2025,4.3
+C0279,Priya Kulkarni,Small Business,Female,21,Telangana,Hyderabad,31/03/2024,3
+C0280,Vikram Shetty,Small Business,Male,42,Tamil Nadu,Chennai,27/09/2024,4.7
+C0281,Aisha Menon,Home Office,Female,46,Maharashtra,Mumbai,30/11/2022,0
+C0282,Aisha Kulkarni,Consumer,Female,38,Kerala,Kochi,10/8/2022,3.4
+C0283,Neha Joshi,Consumer,Female,34,Karnataka,Bengaluru,10/2/2022,2.6
+C0284,Meera Pillai,Consumer,Female,49,Tamil Nadu,Chennai,9/3/2022,2.8
+C0285,Ananya Bhat,Corporate,Female,32,Tamil Nadu,Chennai,14/09/2024,3.8
+C0286,Sanjay Iyer,Consumer,Male,56,Gujarat,Ahmedabad,29/05/2023,3.2
+C0287,Neha Kulkarni,Consumer,Female,55,Kerala,Kochi,24/02/2025,4.6
+C0288,Divya Kulkarni,Corporate,Female,32,Kerala,Kochi,2/7/2025,2.5
+C0289,Akash Chowdhury,Consumer,Male,27,Karnataka,Bengaluru,26/11/2023,3.4
+C0290,Sahana Mehta,Corporate,Female,49,Karnataka,Bengaluru,5/11/2024,3.3
+C0291,Meera Bhat,Consumer,Female,31,Kerala,Kochi,22/04/2023,2.5
+C0292,Aarav Mehta,Consumer,Male,53,Telangana,Hyderabad,21/12/2024,2.8
+C0293,Ananya Iyer,Small Business,Female,26,Tamil Nadu,Chennai,30/05/2024,3.5
+C0294,Shreya Choudhary,Consumer,Female,35,Delhi,Delhi,8/3/2023,3.7
+C0295,Pallavi Chowdhury,Consumer,Female,52,Karnataka,Bengaluru,25/09/2022,3.5
+C0296,Priya Kapoor,Corporate,Female,31,Gujarat,Ahmedabad,24/11/2024,3.8
+C0297,Isha Kapoor,Small Business,Female,43,Gujarat,Ahmedabad,18/02/2024,4
+C0298,Harish Menon,Consumer,Male,46,Karnataka,Bengaluru,9/5/2023,2.5
+C0299,Lakshmi Choudhary,Corporate,Female,54,Kerala,Kochi,23/10/2023,3.7
+C0300,Nikhil Kulkarni,Consumer,Male,54,Maharashtra,Pune,10/9/2025,4.9
+C0301,Rahul Mehta,Consumer,Male,49,Delhi,Delhi,20/08/2025,3.8
+C0302,Keerthi Kulkarni,Corporate,Female,24,Delhi,Delhi,23/07/2025,4.2
+C0303,Riya Joshi,Corporate,Female,37,Karnataka,Bengaluru,9/10/2024,3.3
+C0304,Rahul Saxena,Corporate,Male,55,Telangana,Hyderabad,9/5/2025,4.4
+C0305,Pranav Kulkarni,Small Business,Male,33,Maharashtra,Pune,9/9/2025,4.4
+C0306,Aisha Nair,Home Office,Female,61,Delhi,Delhi,24/11/2024,3.8
+C0307,Varun Singh,Corporate,Male,59,Karnataka,Bengaluru,3/9/2024,4.9
+C0308,Vivaan Reddy,Consumer,Male,35,Gujarat,Ahmedabad,27/04/2023,2.8
+C0309,Pranav Agarwal,Small Business,Male,49,Delhi,Delhi,29/12/2023,2.5
+C0310,Riya Jain,Consumer,Female,49,Andhra Pradesh,Vijayawada,25/04/2023,4.4
+C0311,Rohan Kapoor,Consumer,Male,31,Maharashtra,Mumbai,24/12/2024,4.5
+C0312,Neha Yadav,Consumer,Female,52,Maharashtra,Pune,28/10/2024,2.8
+C0313,Sahana Iyer,Consumer,Female,22,Andhra Pradesh,Vijayawada,17/08/2025,3.2
+C0314,Divya Agarwal,Home Office,Female,34,Tamil Nadu,Chennai,9/12/2022,2.5
+C0315,Meera Nair,Small Business,Female,40,Gujarat,Ahmedabad,25/12/2025,0
+C0316,Manish Desai,Corporate,Male,42,Andhra Pradesh,Vijayawada,18/12/2025,4.4
+C0317,Aarav Yadav,Consumer,Male,31,Kerala,Kochi,28/11/2022,3.8
+C0318,Kiran Gowda,Consumer,Male,47,Kerala,Kochi,14/03/2023,3.4
+C0319,Shreya Nair,Consumer,Female,23,Karnataka,Bengaluru,23/06/2022,3.4
+C0320,Akash Choudhary,Consumer,Male,37,Maharashtra,Mumbai,13/07/2023,2.5
+C0321,Deepika Kapoor,Corporate,Female,64,Tamil Nadu,Chennai,11/6/2023,3.2
+C0322,Arjun Bhat,Small Business,Male,48,Tamil Nadu,Chennai,21/10/2023,4.1
+C0323,Pranav Malhotra,Corporate,Male,49,Delhi,Delhi,26/01/2022,4.9
+C0324,Vikram Kapoor,Consumer,Male,41,Delhi,Delhi,30/03/2024,4.6
+C0325,Sanjay Choudhary,Home Office,Male,36,Andhra Pradesh,Vijayawada,28/08/2023,2.6
+C0326,Nandini Kulkarni,Small Business,Female,57,Tamil Nadu,Chennai,10/2/2023,4.7
+C0327,Deepika Bhat,Corporate,Female,40,Andhra Pradesh,Vijayawada,20/08/2022,4.5
+C0328,Tanvi Joshi,Corporate,Female,26,Gujarat,Ahmedabad,17/06/2023,4.5
+C0329,Isha Chowdhury,Consumer,Female,39,Andhra Pradesh,Vijayawada,20/05/2023,3.6
+C0330,Keerthi Mishra,Consumer,Female,25,Delhi,Delhi,28/06/2022,3.5
+C0331,Bhavya Kapoor,Consumer,Female,23,Maharashtra,Pune,12/5/2022,3.3
+C0332,Nikhil Shetty,Small Business,Male,21,Andhra Pradesh,Vijayawada,14/12/2022,2.7
+C0333,Lakshmi Kapoor,Consumer,Female,58,Telangana,Hyderabad,24/06/2023,3.1
+C0334,Ravi Gowda,Consumer,Male,35,Maharashtra,Pune,11/2/2024,3.1
+C0335,Pranav Saxena,Consumer,Male,54,Tamil Nadu,Chennai,30/11/2025,3.7
+C0336,Abhishek Gowda,Consumer,Male,55,Tamil Nadu,Chennai,17/03/2022,4.4
+C0337,Deepika Agarwal,Small Business,Female,45,Andhra Pradesh,Vijayawada,2/8/2023,3.7
+C0338,Pranav Verma,Small Business,Male,44,Maharashtra,Mumbai,3/5/2024,2.6
+C0339,Isha Kumar,Consumer,Female,32,Delhi,Delhi,13/07/2022,4.9
+C0340,Ananya Nair,Consumer,Female,38,Delhi,Delhi,31/03/2025,4.9
+C0341,Abhishek Joshi,Corporate,Male,35,Kerala,Kochi,13/12/2022,4.5
+C0342,Priya Yadav,Consumer,Female,64,Tamil Nadu,Chennai,8/8/2024,5
+C0343,Anjali Kumar,Consumer,Female,36,Karnataka,Bengaluru,16/10/2025,3.9
+C0344,Sanjay Singh,Consumer,Male,47,Kerala,Kochi,15/01/2025,4.9
+C0345,Suresh Das,Consumer,Male,28,Delhi,Delhi,9/7/2025,2.7
+C0346,Manish Pillai,Corporate,Male,45,Maharashtra,Mumbai,2/8/2022,3.4
+C0347,Harish Kumar,Corporate,Male,37,Gujarat,Ahmedabad,27/07/2023,0
+C0348,Neha Mishra,Consumer,Female,49,Delhi,Delhi,19/02/2024,3
+C0349,Sneha Bhat,Consumer,Female,28,Maharashtra,Pune,19/09/2022,2.9
+C0350,Nandini Mishra,Corporate,Female,35,Kerala,Kochi,31/12/2023,4.1
+C0351,Arjun Iyer,Corporate,Male,47,Tamil Nadu,Chennai,10/10/2022,4.5
+C0352,Neha Das,Small Business,Female,27,Delhi,Delhi,4/11/2025,3.9
+C0353,Pallavi Pillai,Corporate,Female,23,Andhra Pradesh,Vijayawada,28/12/2022,2.9
+C0354,Vivaan Jain,Consumer,Male,49,Maharashtra,Mumbai,17/03/2023,4.5
+C0355,Sahana Das,Consumer,Female,64,Tamil Nadu,Chennai,3/4/2022,4.1
+C0356,Lakshmi Sharma,Corporate,Female,44,Gujarat,Ahmedabad,23/01/2024,3.5
+C0357,Pooja Mehta,Consumer,Female,23,Gujarat,Ahmedabad,16/05/2024,4.2
+C0358,Divya Jain,Corporate,Female,40,Karnataka,Bengaluru,18/12/2025,3.1
+C0359,Neha Bhat,Home Office,Female,35,Maharashtra,Pune,22/05/2022,3.4
+C0360,Anjali Choudhary,Corporate,Female,45,Kerala,Kochi,7/8/2025,4.8
+C0361,Tanvi Yadav,Consumer,Female,50,Karnataka,Bengaluru,26/12/2025,3.2
+C0362,Suresh Agarwal,Corporate,Male,34,Karnataka,Bengaluru,19/01/2024,3.7
+C0363,Suresh Verma,Consumer,Male,27,Telangana,Hyderabad,15/10/2023,4.7
+C0364,Shreya Agarwal,Corporate,Female,37,Delhi,Delhi,2/12/2023,4.3
+C0365,Vivaan Das,Home Office,Male,64,Maharashtra,Pune,24/09/2024,2.7
+C0366,Sneha Kulkarni,Consumer,Female,40,Karnataka,Bengaluru,18/02/2022,2.9
+C0367,Meera Shetty,Home Office,Female,56,Telangana,Hyderabad,18/08/2025,2.5
+C0368,Nikhil Saxena,Home Office,Male,29,Kerala,Kochi,30/05/2024,4.1
+C0369,Nandini Malhotra,Consumer,Female,58,Tamil Nadu,Chennai,28/04/2025,3.6
+C0370,Sanjay Chowdhury,Consumer,Male,42,Andhra Pradesh,Vijayawada,5/3/2025,2.8
+C0371,Anjali Sharma,Consumer,Female,22,Andhra Pradesh,Vijayawada,9/7/2023,4.9
+C0372,Meera Naidu,Consumer,Female,44,Maharashtra,Pune,8/2/2023,3.8
+C0373,Sahana Kulkarni,Consumer,Female,28,Karnataka,Bengaluru,10/6/2024,3.1
+C0374,Vivaan Kumar,Corporate,Male,31,Andhra Pradesh,Vijayawada,14/05/2024,3.8
+C0375,Shreya Singh,Consumer,Female,33,Delhi,Delhi,25/08/2023,4.2
+C0376,Nandini Rao,Consumer,Female,37,Andhra Pradesh,Vijayawada,7/12/2022,2.7
+C0377,Arjun Verma,Small Business,Male,28,Andhra Pradesh,Vijayawada,5/12/2023,3.2
+C0378,Divya Joshi,Consumer,Female,41,Andhra Pradesh,Vijayawada,14/11/2022,4.5
+C0379,Harish Kapoor,Small Business,Male,38,Gujarat,Ahmedabad,10/9/2023,3.6
+C0380,Priya Joshi,Consumer,Female,50,Telangana,Hyderabad,18/10/2025,3.9
+C0381,Divya Verma,Consumer,Female,38,Karnataka,Bengaluru,17/01/2023,3.6
+C0382,Neha Verma,Corporate,Female,51,Delhi,Delhi,21/08/2022,2.6
+C0383,Rahul Agarwal,Corporate,Male,58,Karnataka,Bengaluru,29/09/2025,2.9
+C0384,Vivaan Shetty,Small Business,Male,52,Gujarat,Ahmedabad,27/03/2024,3.6
+C0385,Anjali Reddy,Small Business,Female,31,Maharashtra,Pune,7/7/2023,0
+C0386,Pooja Nair,Small Business,Female,65,Maharashtra,Mumbai,5/5/2024,2.6
+C0387,Rohan Gowda,Consumer,Male,45,Maharashtra,Mumbai,29/03/2024,4.6
+C0388,Aditya Gowda,Consumer,Male,53,Kerala,Kochi,2/7/2022,5
+C0389,Vivaan Nair,Small Business,Male,58,Andhra Pradesh,Vijayawada,30/11/2024,4.5
+C0390,Varun Saxena,Small Business,Male,61,Kerala,Kochi,1/2/2023,4.6
+C0391,Vivaan Chowdhury,Home Office,Male,28,Telangana,Hyderabad,18/02/2024,3.1
+C0392,Manish Nair,Consumer,Male,31,Maharashtra,Mumbai,25/06/2024,4.9
+C0393,Sanjay Agarwal,Consumer,Male,42,Gujarat,Ahmedabad,18/09/2025,3
+C0394,Vikram Naidu,Small Business,Male,44,Delhi,Delhi,7/5/2022,4.9
+C0395,Harish Kapoor,Consumer,Male,61,Karnataka,Bengaluru,1/1/2022,5
+C0396,Ravi Gowda,Home Office,Male,37,Andhra Pradesh,Vijayawada,6/4/2025,4.3
+C0397,Kavya Rao,Small Business,Female,32,Tamil Nadu,Chennai,19/01/2022,5
+C0398,Tanvi Chowdhury,Consumer,Female,52,Delhi,Delhi,17/09/2025,3.9
+C0399,Vikram Gowda,Small Business,Male,35,Andhra Pradesh,Vijayawada,7/8/2023,3.1
+C0400,Nikhil Mehta,Small Business,Male,36,Kerala,Kochi,1/4/2023,3.6
+C0401,Kiran Naidu,Consumer,Male,42,Kerala,Kochi,14/08/2024,4
+C0402,Vivaan Malhotra,Home Office,Male,48,Delhi,Delhi,6/2/2025,2.7
+C0403,Aisha Naidu,Corporate,Female,40,Kerala,Kochi,15/07/2025,4.1
+C0404,Divya Das,Small Business,Female,53,Maharashtra,Mumbai,21/03/2023,5
+C0405,Varun Kumar,Consumer,Male,30,Telangana,Hyderabad,17/06/2025,3
+C0406,Pallavi Pillai,Home Office,Female,60,Karnataka,Bengaluru,17/08/2025,4.5
+C0407,Pranav Patel,Consumer,Male,52,Telangana,Hyderabad,25/08/2023,4.8
+C0408,Aisha Jain,Consumer,Female,53,Andhra Pradesh,Vijayawada,13/04/2022,4.9
+C0409,Tanvi Choudhary,Home Office,Female,22,Karnataka,Bengaluru,14/09/2024,4.9
+C0410,Vikram Choudhary,Consumer,Male,53,Gujarat,Ahmedabad,27/06/2025,3.8
+C0411,Sahana Choudhary,Consumer,Female,53,Karnataka,Bengaluru,4/6/2023,4.9
+C0412,Aditya Gupta,Home Office,Male,61,Telangana,Hyderabad,22/03/2025,4.4
+C0413,Anjali Mishra,Home Office,Female,33,Delhi,Delhi,8/5/2024,2.9
+C0414,Kavya Kumar,Corporate,Female,50,Karnataka,Bengaluru,23/06/2022,3.7
+C0415,Keerthi Desai,Corporate,Female,53,Gujarat,Ahmedabad,28/09/2025,4.3
+C0416,Sneha Sharma,Consumer,Female,33,Gujarat,Ahmedabad,1/10/2024,3.1
+C0417,Neha Saxena,Consumer,Female,46,Gujarat,Ahmedabad,7/3/2023,0
+C0418,Swathi Patel,Consumer,Female,42,Telangana,Hyderabad,28/12/2023,4.2
+C0419,Shreya Gupta,Corporate,Female,59,Karnataka,Bengaluru,29/04/2024,2.9
+C0420,Nandini Pillai,Small Business,Female,22,Tamil Nadu,Chennai,9/9/2025,3.9
+C0421,Manish Mishra,Small Business,Male,58,Delhi,Delhi,16/09/2024,4.4
+C0422,Akash Shetty,Small Business,Male,59,Maharashtra,Mumbai,1/10/2023,3.7
+C0423,Deepika Desai,Consumer,Female,46,Karnataka,Bengaluru,24/02/2023,2.5
+C0424,Abhishek Chowdhury,Corporate,Male,35,Gujarat,Ahmedabad,17/08/2023,2.5
+C0425,Anjali Gowda,Consumer,Female,54,Tamil Nadu,Chennai,30/04/2023,3.4
+C0426,Lakshmi Kapoor,Corporate,Female,62,Maharashtra,Pune,16/02/2023,4.8
+C0427,Shreya Saxena,Consumer,Female,64,Maharashtra,Mumbai,24/07/2024,3.1
+C0428,Pallavi Verma,Home Office,Female,60,Andhra Pradesh,Vijayawada,12/1/2025,4.1
+C0429,Priya Jain,Consumer,Female,31,Karnataka,Bengaluru,10/2/2025,3.1
+C0430,Pranav Saxena,Consumer,Male,23,Telangana,Hyderabad,28/11/2022,3.3
+C0431,Rahul Verma,Consumer,Male,26,Karnataka,Bengaluru,2/11/2025,4.6
+C0432,Isha Nair,Small Business,Female,29,Tamil Nadu,Chennai,17/10/2023,4.3
+C0433,Nandini Naidu,Corporate,Female,26,Maharashtra,Pune,10/2/2022,2.7
+C0434,Riya Kulkarni,Consumer,Female,29,Karnataka,Bengaluru,16/08/2024,3.6
+C0435,Divya Joshi,Consumer,Female,59,Telangana,Hyderabad,15/04/2022,2.6
+C0436,Vivaan Agarwal,Small Business,Male,51,Andhra Pradesh,Vijayawada,21/07/2022,0
+C0437,Priya Rao,Consumer,Female,52,Karnataka,Bengaluru,26/03/2023,4.2
+C0438,Swathi Iyer,Small Business,Female,61,Delhi,Delhi,13/07/2025,2.8
+C0439,Pooja Choudhary,Small Business,Female,32,Andhra Pradesh,Vijayawada,28/06/2024,3.2
+C0440,Ravi Joshi,Consumer,Male,28,Telangana,Hyderabad,29/07/2022,3.5
+C0441,Abhishek Yadav,Consumer,Male,28,Tamil Nadu,Chennai,17/07/2023,0
+C0442,Tanvi Pillai,Home Office,Female,48,Maharashtra,Pune,15/02/2025,5
+C0443,Abhishek Bhat,Consumer,Male,40,Karnataka,Bengaluru,14/12/2023,2.6
+C0444,Aarav Menon,Consumer,Male,27,Telangana,Hyderabad,1/11/2025,4.4
+C0445,Varun Kumar,Small Business,Male,31,Andhra Pradesh,Vijayawada,10/2/2024,3.4
+C0446,Pranav Shetty,Home Office,Male,40,Delhi,Delhi,12/1/2025,3.5
+C0447,Neha Agarwal,Home Office,Female,36,Telangana,Hyderabad,30/03/2023,4.4
+C0448,Bhavya Gowda,Small Business,Female,24,Kerala,Kochi,29/10/2023,4.8
+C0449,Pranav Pillai,Consumer,Male,26,Gujarat,Ahmedabad,21/09/2023,4.9
+C0450,Lakshmi Desai,Consumer,Female,42,Delhi,Delhi,22/01/2023,3.9
+C0451,Swathi Kapoor,Small Business,Female,46,Andhra Pradesh,Vijayawada,5/10/2025,3.4
+C0452,Vivaan Kumar,Corporate,Male,23,Tamil Nadu,Chennai,23/10/2022,4.5
+C0453,Ananya Nair,Consumer,Female,61,Maharashtra,Pune,15/09/2022,3.1
+C0454,Meera Pillai,Home Office,Female,62,Andhra Pradesh,Vijayawada,9/1/2025,3.9
+C0455,Pranav Mehta,Consumer,Male,34,Gujarat,Ahmedabad,25/09/2022,3.4
+C0456,Pallavi Gupta,Corporate,Female,31,Tamil Nadu,Chennai,23/02/2023,4.1
+C0457,Lakshmi Bhat,Consumer,Female,38,Karnataka,Bengaluru,23/08/2022,3.1
+C0458,Deepika Gupta,Consumer,Female,32,Telangana,Hyderabad,27/08/2025,3
+C0459,Shreya Shetty,Consumer,Female,43,Kerala,Kochi,12/9/2024,4.8
+C0460,Bhavya Joshi,Consumer,Female,32,Delhi,Delhi,12/10/2025,2.8
+C0461,Pooja Pillai,Consumer,Female,33,Delhi,Delhi,21/05/2025,3.8
+C0462,Nandini Verma,Corporate,Female,45,Telangana,Hyderabad,28/07/2023,3.1
+C0463,Aisha Verma,Small Business,Female,65,Kerala,Kochi,18/02/2022,2.6
+C0464,Suresh Patel,Corporate,Male,39,Telangana,Hyderabad,24/02/2025,2.6
+C0465,Varun Joshi,Home Office,Male,56,Karnataka,Bengaluru,11/8/2022,2.9
+C0466,Vikram Shetty,Consumer,Male,65,Gujarat,Ahmedabad,9/7/2024,4.7
+C0467,Anjali Gowda,Consumer,Female,28,Tamil Nadu,Chennai,26/07/2025,3.2
+C0468,Akash Iyer,Small Business,Male,49,Andhra Pradesh,Vijayawada,2/12/2025,4.9
+C0469,Harish Shetty,Consumer,Male,52,Delhi,Delhi,10/8/2025,4
+C0470,Lakshmi Verma,Home Office,Female,64,Karnataka,Bengaluru,4/10/2022,3.6
+C0471,Pallavi Gowda,Consumer,Female,38,Tamil Nadu,Chennai,4/2/2025,4
+C0472,Deepika Chowdhury,Home Office,Female,26,Karnataka,Bengaluru,24/02/2023,3.8
+C0473,Ananya Patel,Consumer,Female,38,Kerala,Kochi,3/9/2023,4.4
+C0474,Varun Mehta,Home Office,Male,39,Delhi,Delhi,23/12/2025,3.2
+C0475,Suresh Gupta,Corporate,Male,42,Andhra Pradesh,Vijayawada,10/1/2023,3.4
+C0476,Akash Mehta,Home Office,Male,57,Telangana,Hyderabad,14/03/2022,4.7
+C0477,Aarav Pillai,Consumer,Male,52,Telangana,Hyderabad,19/11/2024,4.9
+C0478,Anjali Singh,Corporate,Female,61,Tamil Nadu,Chennai,26/04/2025,4.7
+C0479,Abhishek Reddy,Home Office,Male,23,Andhra Pradesh,Vijayawada,19/10/2025,3.5
+C0480,Arjun Bhat,Corporate,Male,48,Gujarat,Ahmedabad,14/07/2022,4.5
+C0481,Ananya Pillai,Corporate,Female,30,Maharashtra,Pune,25/03/2025,3.7
+C0482,Sanjay Desai,Corporate,Male,55,Kerala,Kochi,10/4/2025,3.7
+C0483,Swathi Patel,Consumer,Female,49,Tamil Nadu,Chennai,26/04/2024,3
+C0484,Aarav Naidu,Corporate,Male,35,Maharashtra,Mumbai,30/11/2024,4
+C0485,Ananya Agarwal,Corporate,Female,53,Karnataka,Bengaluru,22/12/2024,3
+C0486,Lakshmi Kapoor,Home Office,Female,27,Kerala,Kochi,23/01/2022,3.3
+C0487,Sneha Rao,Consumer,Female,32,Karnataka,Bengaluru,26/12/2022,4.6
+C0488,Arjun Verma,Consumer,Male,50,Gujarat,Ahmedabad,3/1/2025,3
+C0489,Lakshmi Patel,Home Office,Female,41,Andhra Pradesh,Vijayawada,14/07/2023,2.7
+C0490,Rohan Das,Home Office,Male,51,Delhi,Delhi,3/11/2023,2.7
+C0491,Swathi Kumar,Consumer,Female,44,Kerala,Kochi,15/02/2025,4.9
+C0492,Sahana Desai,Corporate,Female,40,Maharashtra,Pune,4/11/2025,3.8
+C0493,Arjun Singh,Consumer,Male,57,Gujarat,Ahmedabad,10/11/2023,3.5
+C0494,Manish Choudhary,Consumer,Male,24,Delhi,Delhi,6/8/2025,4.5
+C0495,Sahana Mehta,Consumer,Female,48,Telangana,Hyderabad,16/03/2023,4.6
+C0496,Rahul Nair,Consumer,Male,64,Maharashtra,Mumbai,21/07/2024,3.3
+C0497,Vikram Bhat,Corporate,Male,40,Tamil Nadu,Chennai,7/1/2022,4.2
+C0498,Neha Chowdhury,Consumer,Female,44,Telangana,Hyderabad,4/5/2025,4.4
+C0499,Tanvi Choudhary,Home Office,Female,52,Gujarat,Ahmedabad,25/02/2023,4.1
+C0500,Riya Nair,Home Office,Female,61,Telangana,Hyderabad,12/4/2024,2.9
