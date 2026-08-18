@@ -503,7 +503,7 @@ The 2025 Flipkart E-Commerce analysis consolidates sales, customer, product, pro
 
 # 👨‍💻 About the Author
 
-Sri Hari
+**Sri Hari**
 
 Aspiring Data Analyst | Power BI | Excel | SQL | Data Visualization
 
